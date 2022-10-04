@@ -3839,6 +3839,13 @@ let cards = [
     githubLink: "https://github.com/galiarudenko",
   },
   {
+    artName: "SCow-cat",
+    pageLink: "./Art/sikku/index.html",
+    imageLink: "./Art/sikku/SCow-cat.gif",
+    author: "Sikku",
+    githubLink: "https://github.com/sikku",
+  },
+  {
     artName: "Rainb0w",
     pageLink: "./Art/Duka/index.html",
     imageLink: "./Art/Duka/rainbow.gif",
